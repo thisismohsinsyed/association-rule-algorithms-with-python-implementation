@@ -1,5 +1,5 @@
 
-# Association Rules in Machine Learning
+# Product Recommendation System Using Association Rule Based Machine Learning Algorithms
 
 ## Overview
 This repository demonstrates the application of Association Rule Mining algorithms on an online retail dataset. The project includes:
@@ -64,9 +64,8 @@ The dataset, `Online Retail II`, contains transactional data of a UK-based non-s
 ---
 
 ## Files in the Repository
-- `dataset.csv`: The raw dataset used for the analysis.
-- `notebook.ipynb`: Contains the code for loading, cleaning, EDA, and applying algorithms.
-- `results/`: Folder containing output files (e.g., frequent itemsets and rules).
+
+- `Complete_Implementation.ipynb`: Contains the code for loading, cleaning, EDA, and applying algorithms.
 - `Association_Rules_Presentation.pptx`: A presentation summarizing the project.
 - `README.md`: Overview of the project.
 
@@ -85,7 +84,7 @@ The dataset, `Online Retail II`, contains transactional data of a UK-based non-s
    ```
 
 3. **Run the notebook**:
-   Open `notebook.ipynb` in Jupyter Notebook and execute the cells.
+   Open `Complete_Implementation.ipynb` in Jupyter Notebook and execute the cells.
 
 4. **Explore the results**:
    - Generated association rules are saved in the `results/` folder.
@@ -108,7 +107,7 @@ The dataset, `Online Retail II`, contains transactional data of a UK-based non-s
 ---
 
 ## Acknowledgments
-- Dataset provided by the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php).
+- Dataset provided by the [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data).
 
 ---
 
